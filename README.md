@@ -1,2 +1,0 @@
-# react_codesandbox_styled_components
-Created with CodeSandbox
